@@ -1,7 +1,7 @@
 import java.util.Date;
 import java.util.Scanner;
 
-public class StockManagement {
+public class Main{
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
